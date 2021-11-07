@@ -20,12 +20,12 @@
 
 #### Pet Projects
 * [Задача классификации открытых/закрытых глаз](https://github.com/kirill-ionkin/Test_tasks/tree/main/VisionLabs) @ VisionLabs(test task)
-* [News classification]()
+* [News classification](https://github.com/kirill-ionkin/OpenDataBattle/tree/main/News) @ Open Data Battle
 * [Neural Style Transfer](https://github.com/kirill-ionkin/NST_Gatys) @ Sber University, IT-School
 
 
 #### Hackathons
-* [Open Data  Battle]() 
+* [Open Data  Battle.](https://github.com/kirill-ionkin/OpenDataBattle/tree/main/finall_1_task) Хакатон от банка "Открытие", 39 место(~ top 15%)
 
 
 #### Education
