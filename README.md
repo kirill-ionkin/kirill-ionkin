@@ -6,11 +6,10 @@
 * [telegram](https://t.me/why_no_tt),
   [linkedin](https://www.linkedin.com/in/kirill-ionkin/),
   [instagram](https://www.instagram.com/ionkin_kirill/?utm_medium=copy_link)
-
-* [kaggle](https://www.kaggle.com/valentinaliferov),
+* [kaggle](https://www.kaggle.com/kirillionkin),
   [leetcode](https://leetcode.com/kirill-ionkin/),
-  [coursera](https://www.coursera.org/user/f15336edc3dd8b084933102211e6c15c)
-  [stepik](https://stepik.org/users/21579653), 
+  [coursera](https://www.coursera.org/user/f15336edc3dd8b084933102211e6c15c),
+  [stepik](https://stepik.org/users/21579653)
 
 
 #### Skills
@@ -23,7 +22,6 @@
 * [Задача классификации открытых/закрытых глаз](https://github.com/kirill-ionkin/Test_tasks/tree/main/VisionLabs) @ VisionLabs(test task)
 * [News classification]()
 * [Neural Style Transfer](https://github.com/kirill-ionkin/NST_Gatys) @ Sber University, IT-School
-* [Simpsons Classification](https://github.com/vaaliferov/simpsons) @ Deep Learning School
 
 
 #### Hackathons
