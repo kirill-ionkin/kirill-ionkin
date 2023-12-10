@@ -23,8 +23,8 @@ The challenges of coding and the ability to make a real impact drive me to const
 
 <a href="https://www.kaggle.com/kirillionkin" target="_blank" rel="noreferrer"><img src="./sociails/ds_socials/kaggle2.png" width="64" height="64" /></a>
 <a href="https://leetcode.com/kirill-ionkin/" target="_blank" rel="noreferrer"><img src="./sociails/ds_socials/leetcode.gif" width="64" height="64" /></a>
-<a href="https://www.kaggle.com/kirillionkin" target="_blank" rel="noreferrer"><img src="./sociails/education_socials/coursera.gif" width="64" height="64" /></a>
-<a href="https://leetcode.com/kirill-ionkin/" target="_blank" rel="noreferrer"><img src="./sociails/education_socials/stepik.png" width="64" height="64" /></a>
+<a href="https://www.coursera.org/user/f15336edc3dd8b084933102211e6c15c" target="_blank" rel="noreferrer"><img src="./sociails/education_socials/coursera.gif" width="64" height="64" /></a>
+<a href="https://stepik.org/users/21579653" target="_blank" rel="noreferrer"><img src="./sociails/education_socials/stepik.png" width="64" height="64" /></a>
 
 </p>
 
