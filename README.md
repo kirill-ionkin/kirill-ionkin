@@ -1,56 +1,37 @@
-- 👋 Hello everyone! My name is Kirill =)
-- 👀 I’m interested in Data Science
+Hi everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Kirill
+=============================================================================================================================
+
+I'm Data Scientist📊, focusing in Deep Learning🐈🐕 and Computer Vision👀
+--------------
 
 
-#### Contact / follow me
-* [telegram](https://t.me/why_no_tt),
-  [linkedin](https://www.linkedin.com/in/kirill-ionkin/),
-  [instagram](https://www.instagram.com/ionkin_kirill/?utm_medium=copy_link)
-* [kaggle](https://www.kaggle.com/kirillionkin),
-  [leetcode](https://leetcode.com/kirill-ionkin/),
-  [coursera](https://www.coursera.org/user/f15336edc3dd8b084933102211e6c15c),
-  [stepik](https://stepik.org/users/21579653)
+<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"></a>
+
+I am passionate about programming and always excited to solve algorithm problems.\
+I thoroughly enjoy going deep into research to find effective solutions for real-world problems.\
+The challenges of coding and the ability to make a real impact drive me to constantly expand my knowledge and skills.
 
 
-#### Skills
-* Languages: Python, MySQL
-* DS/ML/DL:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, CatBoost, etc.
-* DevOps:    Git, PyCharm
+### Socials
+
+<p align="left">
+
+<a href="https://t.me/why_no_tt" target="_blank" rel="noreferrer"><img src="./sociails/telegram/telegram.gif" width="64" height="64" /></a>
+<a href="https://www.linkedin.com/in/kirill-ionkin/" target="_blank" rel="noreferrer"><img src="./sociails/linkedin/linkedin.gif" width="64" height="64" /></a>
+<a href="https://www.instagram.com/ionkin_kirill/?utm_medium=copy_link" target="_blank" rel="noreferrer"><img src="./sociails/instagram/instagram.gif" width="64" height="64" /></a>
+
+<a href="https://www.kaggle.com/kirillionkin" target="_blank" rel="noreferrer"><img src="./sociails/ds_socials/kaggle2.png" width="64" height="64" /></a>
+<a href="https://leetcode.com/kirill-ionkin/" target="_blank" rel="noreferrer"><img src="./sociails/ds_socials/leetcode.gif" width="64" height="64" /></a>
+<a href="https://www.kaggle.com/kirillionkin" target="_blank" rel="noreferrer"><img src="./sociails/education_socials/coursera.gif" width="64" height="64" /></a>
+<a href="https://leetcode.com/kirill-ionkin/" target="_blank" rel="noreferrer"><img src="./sociails/education_socials/stepik.png" width="64" height="64" /></a>
+
+</p>
 
 
-#### Pet Projects
-* [Задача классификации открытых/закрытых глаз](https://github.com/kirill-ionkin/Test_tasks/tree/main/VisionLabs) @ VisionLabs(test task)
-* [News classification](https://github.com/kirill-ionkin/OpenDataBattle/tree/main/News) @ Open Data Battle
-* [Neural Style Transfer](https://github.com/kirill-ionkin/NST_Gatys) @ Sber University, IT-School
+### Skills
+* Programming Languages: Python<img src="./skills/PL/python.gif" width="20" height="20"/>, C++<img src="./skills/PL/c_plu_plus.gif" width="20" height="20"/>
 
 
-#### Hackathons
-* [Open Data  Battle.](https://github.com/kirill-ionkin/OpenDataBattle/tree/main/finall_1_task) Хакатон от банка "Открытие", 39 место(~ top 15%)
-
-
-#### Education
-* **[Sber University, IT-School](https://github.com/kirill-ionkin/Ionkin-ds-school)**  
-  Data Science, Jan. 2021 - June 2021
-
-* **Moscow Institute of Physics and Technology**  
-  Department of Aeromechanics and Flight Engineering(completed 3 courses), 2016 - 2020 
-
-
-#### Python & DevOps
-* [Python Programming](https://www.coursera.org/specializations/programming-in-python) @ MIPT & Mail.ru on Coursera ([1](https://www.coursera.org/account/accomplishments/verify/ECWHUDS867SY), [2](https://www.coursera.org/account/accomplishments/verify/7TSG5GLTDR7G), 3, 4, 5)
-* [Интерактивый тренажёр по SQL](https://stepik.org/course/63054/info) @ Stepik ([1](https://stepik.org/cert/1036234))
-
-
-#### DS/ML/DL & MLOps
-* [Deep Learning School(NLP)](https://github.com/kirill-ionkin/Deep_Learning_School_part_2) @ MIPT (Sep. 2021 - current)
-* [Deep Learning School(Computer Vision)](https://github.com/kirill-ionkin/Deep_Learning_School_part_1) @ MIPT (Sep. 2020 - March 2021)
-* [MLCourse.ai](https://ods.ai/projects/mlcourse) @  OpenDataScience
-* [Machine Learning and Data Analysis](https://www.coursera.org/specializations/machine-learning-data-analysis) @ MIPT & Yandex on Coursera ([1](https://www.coursera.org/account/accomplishments/verify/JJEWLND5TB53), 2, 3, 4, 5, 6)
-* [Основы статистики. Часть 2](https://stepik.org/cert/790734) @ Stepik (Oct. 2020)
-* [Основы статистики. Часть 1](https://stepik.org/cert/580082) @ Stepik (Aug. 2020)
-
-
-
-
-
-
+###### TODO:
+structured README for other branches: README_old_version.md
