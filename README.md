@@ -166,7 +166,7 @@ jupyterlab-contrib-spellchecker](https://github.com/jupyterlab-contrib/spellchec
 
 #
 
-#### Hackathons
+#### Competitions
 * [Open Data  Battle.](https://github.com/kirill-ionkin/OpenDataBattle/tree/main/finall_1_task) Хакатон от банка "Открытие", 39 место(~ top 15%)
 
 #
